@@ -29,8 +29,10 @@ Support:
 .checkmark {
     background-color:white;
     z-index: 10;
+/*
     border: 1px solid #9948c0;
     border-radius: 50%;  
+*/
 }
 
 
